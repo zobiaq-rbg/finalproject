@@ -31,7 +31,7 @@ Through one of the data sets I found on Open Justice, I saw a significant increa
 <iframe title="Violent Crimes from 2010-2019(Open Justice)" aria-label="Interactive line chart" id="datawrapper-chart-oC6zV" src="https://datawrapper.dwcdn.net/oC6zV/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-Being a California resident, this increase in violent crime is worrisome. I feel that a connection I can make beyond this data is that the crimes are mostly targeting individuals of lower socioeconomic backgrounds, whereas individuals of upper socioeconomic backgrounds are likely less affected. 
+Being a California resident, this increase in violent crime is worrisome. I feel that a connection I can make beyond this data is that the crimes are mostly targeting individuals of lower socioeconomic backgrounds, whereas individuals of upper socioeconomic backgrounds are likely less affected. I also wonder whether one of the factors contributing to the increase in VIOLENT crimes is increased access to weapons.
 
 Within California, I also found an interesting data set that showed dangerous trends in domestic violence-related incidents. 
 
