@@ -6,9 +6,9 @@ When analyzing crime data, I try to apply this lens and try to understand the en
 
 
 Within this project, we will be analyzing data from:
-*California Crime Data Statistics 
-*Juvenile Justice in CA 
-*
+* California Crime Data Statistics 
+* Juvenile Justice in CA 
+* third item
 
 ![Investigating Crime](https://media.journalism.berkeley.edu/upload/2020/08/159720056511d6591.png)
 
