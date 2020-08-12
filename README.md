@@ -22,10 +22,18 @@ The data that I received from Github on hate crimes per state was already in a u
 
 When analyzing hate crimes per 100,000 populations, it becomes clear that the number of hate crimes varies vastly by location. Certain states have much less of a number of hate crimes than other states. For example, Mississippi has an average of 0.067 hate crimes per 100,000 poulation whereas Oregon has an average of 0.833 hate crimes per 100,000 crimes. What is the reason for this disparity, and how can state officials across the US seek to lessen the amount of hate crimes?
 
-The formula I used was:
+Having been born and raised in California, I was further interested in investigating crime within my home state. I found an interesting data set that showed dangerous trends in domestic violence-related incidents. 
 
-```
-=VLOOKUP("Something," A2:157, 1, false)
-```
+For the California Crime Data from Open Justice, I did not have to clean the data much; however, I did have to upload the CSV to google sheets to remove the commas. Initially, I was confused about why my data was off, but then I realized it was because of the commas. Here is a screenshot of that process. I highlighted all of the data, went to "Format," then "Number," and switched from "Automatic" to "Plain text." I further deleted some of the rows that I felt were not as relevant to the data set.
 
-![Canva Graphic](https://media.journalism.berkeley.edu/upload/2020/08/159720056511d6591.png)
+![Screenshot](https://media.journalism.berkeley.edu/upload/2020/08/1597210055a4d979e.png)
+
+I felt that this table was extremely helpful to seeing the trends and then further broke some of the data later on this project. 
+
+<iframe title="Domestic Violence-Related Calls for Assistance in California(OpenJustice)" aria-label="chart" id="datawrapper-chart-GbQmO" src="https://datawrapper.dwcdn.net/GbQmO/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="635"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+
+The table illustrates a noteable spike in domestic violence related incidents involving weapons, increasing from 62,204 crimes in 2013 to 68,585 crimes in 2015. Furthermore, there is an increase in incidents involving a personal weapon, increasing from 49,459 crimes in 2013 to 54,642 crimes in 2015. Looking at these trends, I think about how to make more resources available to support women who may be struggling from domestic violence, whether that be offering more shelters that women who are struggling financially can stay or offering mental health resources. 
+
+
