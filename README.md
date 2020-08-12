@@ -1,4 +1,6 @@
-# Final Project for Zobia Quraishi
+# Analyzing California Crime Data  
+
+Final Project by Zobia Quraishi
 
 Analyzing crime data can be helpful to understand how to best influence structural change. As citizens, we have a duty to advocate for more equitable systems and to vote/campaign for criminal justice measures that are fair. Law and order are important, but it is also important to see as people first and foremost, not labeling people as 'criminals.' I chose to analyze crime data because being less than four days away from being a Cal alumna, the majority of courses of study I took in undergraduate have an emphasis on social justice and to tell the stories of those who often go unheard. Within the public policy minor, I learned about the curb cut effect, which is the idea that helping the most marginalized of all people will in fact benefit all of society. The idea behind creating curbs was to help disabled folks, such as individuals with wheelchairs. Creating curbs, however, in fact benefited all of society, such as mothers who were using strollers or individuals with suitcases. A more-in depth explanation of the curb-cut effect can be found [here](https://www.policylink.org/resources-tools/curb-cut-effect).
 
