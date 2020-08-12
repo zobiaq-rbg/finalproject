@@ -17,10 +17,11 @@ Within this project, we will be analyzing data from:
 
 The data that I received from Github on hate crimes per state was already in a usable format. 
 
-<iframe title="Hate Crimes per 100,000 population By State Based on Southern Poverty Law Center" aria-label="map" id="datawrapper-chart-2p5Oo" src="https://datawrapper.dwcdn.net/2p5Oo/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="594"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Hate Crimes per 100,000 population By State Based on Southern Poverty Law Center" aria-label="map" id="datawrapper-chart-2p5Oo" src="https://datawrapper.dwcdn.net/2p5Oo/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="594"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-When analyzing hate crimes per 100,000 populations, it 
+When analyzing hate crimes per 100,000 populations, it becomes clear that the number of hate crimes varies vastly by location. Certain states have much less of a number of hate crimes than other states. 
+
 The formula I used was:
 
 ```
