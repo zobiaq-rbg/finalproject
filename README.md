@@ -54,6 +54,10 @@ To have a clearer understanding of some of the domestic violence crimes, I creat
 
 While looking at this chart, something that stood out to me was the clear increase in strangulation cases and suffocation cases. Why is the California state government not doing more to address this issue? I worry, given the current situation of COVID-19, whether the state is allocating enough resources to protect against domestic violence. 
 
+Here are links to my .csv files:
 
+* file #[1](https://docs.google.com/spreadsheets/d/1dyfhOt567Ycj0mlXZpaz7qPr_rxF-_6I4L9DRUp05fw/edit?usp=sharing)
+* file #[2](https://docs.google.com/spreadsheets/d/1xI8uTZMdwsB9iNI_RZqnrH0_90Lelp9Kue8_E-EVODo/edit?usp=sharing)
+* file #[3](https://docs.google.com/spreadsheets/d/1SbA4q86u8E94zY-bR6OvD7bjQQnVcnQor5olfds5EtI/edit?usp=sharing)
 
 
