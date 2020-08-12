@@ -36,4 +36,13 @@ I felt that this table was extremely helpful to seeing the trends and then furth
 
 The table illustrates a noteable spike in domestic violence related incidents involving weapons, increasing from 62,204 crimes in 2013 to 68,585 crimes in 2015. Furthermore, there is an increase in incidents involving a personal weapon, increasing from 49,459 crimes in 2013 to 54,642 crimes in 2015. Looking at these trends, I think about how to make more resources available to support women who may be struggling from domestic violence, whether that be offering more shelters that women who are struggling financially can stay or offering mental health resources. 
 
+To have a clearer understanding of some of the domestic violence crimes, I created this line graph, to show the increase in certain incidents. 
+
+<iframe title="Domestic Violence Related Crimes " aria-label="Interactive line chart" id="datawrapper-chart-avLGB" src="https://datawrapper.dwcdn.net/avLGB/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+While looking at this chart, something that stood out to me was the clear increase in strangulation cases and suffocation cases. Why is the California state government not doing more to address this issue? I worry, given the current situation of COVID-19, whether the state is allocating enough resources to protect against domestic violence. 
+
+
+
 
