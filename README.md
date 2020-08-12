@@ -1,4 +1,4 @@
-# Analyzing California Crime Data  
+# Analyzing US Crime Data  
 
 Final Project by Zobia Quraishi
 
